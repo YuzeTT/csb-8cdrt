@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yuzett.github.io/csb-8cdrt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yuzett.github.io/csb-8cdrt/static/js/main.cd84d416.chunk.js",
+    "main.js.map": "https://yuzett.github.io/csb-8cdrt/static/js/main.cd84d416.chunk.js.map",
+    "runtime-main.js": "https://yuzett.github.io/csb-8cdrt/static/js/runtime-main.3e5143d6.js",
+    "runtime-main.js.map": "https://yuzett.github.io/csb-8cdrt/static/js/runtime-main.3e5143d6.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://yuzett.github.io/csb-8cdrt/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://yuzett.github.io/csb-8cdrt/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://yuzett.github.io/csb-8cdrt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yuzett.github.io/csb-8cdrt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://yuzett.github.io/csb-8cdrt/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e5143d6.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd84d416.chunk.js"
+  ]
+}
